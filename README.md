@@ -13,7 +13,9 @@ Title | Aims | Notes | Read?
 [Do the Machine Learning Models on a Crowd Sourced Platform Exhibit Bias? An Empirical Study on Model Fairness](https://arxiv.org/pdf/2005.12379.pdf) | To investigate the empirical evaluation of fairness and mitigation on real-world ML models | Some model optimization techniques result in inducing unfairness in the models. Although there are some fairness control mechanisms in ML libraries, they aren’t documented. | <ul><li>- [ ] read</li></ul>
 [SoK: Towards the Science of Security and Privacy in Machine Learning](https://arxiv.org/pdf/1611.03814.pdf) | | | <ul><li>- [ ] read</li></ul>
 [Co-Designing Checklists to Understand Organisational Challenges and Opportunities around Fairness in AI](http://www.jennwv.com/papers/checklists.pdf) | | | <ul><li>- [ ] read</li></ul>
-[AI FAIRNESS 360: AN EXTENSIBLE TOOLKIT FOR DETECTING, UNDERSTANDING, AND MITIGATING UNWANTED ALGORITHMIC BIAS](https://arxiv.org/pdf/1810.01943.pdf) | On AI Fairness 360 IBM | A tool to measure fairness | <ul><li>- [ ] read</li></ul>
+[AI FAIRNESS 360: AN EXTENSIBLE TOOLKIT FOR DETECTING, UNDERSTANDING, AND MITIGATING UNWANTED ALGORITHMIC BIAS](https://arxiv.org/pdf/1810.01943.pdf) | On AI Fairness 360 IBM | [A tool to measure fairness](https://aif360.mybluemix.net/) | <ul><li>- [ ] read</li></ul>
+[Transparency Tools for Fairness in AI (Luskin)](https://arxiv.org/abs/2007.04484) | | | <ul><li>- [ ] read</li></ul>
+[Delayed Impact of Fair Machine Learning](https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/?source=post_page---------------------------) | | | <ul><li>- [ ] read</li></ul>
 
 ## Ocean Particle Clustering
 
