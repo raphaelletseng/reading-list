@@ -24,3 +24,6 @@ Title | Aim | Notes | Read?
 [Unsupervised Learning Reveals Geography of Global Ocean Dynamical Regions](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018EA000519) | | | <ul><li>- [ ] read</li></ul>
 [Unsupervised Clustering of Southern Ocean Argo Float Temperature Profiles](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JC014629) | | | <ul><li>- [ ] read</li></ul>
 [Temporal changes in the causes of the observed oxygen decline in the St. Lawrence Estuary](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JC016577) | To examine what has been contributing to the oxygen decline over the last five decades | | <ul><li>- [x] read</li></ul> 
+
+## To Read
+[Attention Is All You Need](https://arxiv.org/abs/1706.03762)
