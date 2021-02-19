@@ -27,3 +27,5 @@ Title | Aim | Notes | Read?
 
 ## To Read
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+[The Grey Hoodie Project: Big Tobacco, Big Tech, and the threat
+on academic integrity](https://arxiv.org/pdf/2009.13676.pdf)
