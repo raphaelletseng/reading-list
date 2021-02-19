@@ -26,6 +26,6 @@ Title | Aim | Notes | Read?
 [Temporal changes in the causes of the observed oxygen decline in the St. Lawrence Estuary](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JC016577) | To examine what has been contributing to the oxygen decline over the last five decades | | <ul><li>- [x] read</li></ul> 
 
 ## To Read
-[Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-[The Grey Hoodie Project: Big Tobacco, Big Tech, and the threat
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [The Grey Hoodie Project: Big Tobacco, Big Tech, and the threat
 on academic integrity](https://arxiv.org/pdf/2009.13676.pdf)
