@@ -14,7 +14,7 @@ Things I am reading
 - [ ] Transport: A roadblock to climate change mitigation?
 - [ ] Prdictibility in the midst of chaos: a scientific basis for climate forecasting
 - [ ] Machine Learning for applications for Earth obeservation
-- [ ] [The power of peer pressure in combatting climate change] (https://www.greenbiz.com/blog/2010/01/19/power-peer-pressure-combatting-climate-change)
+- [ ] [The power of peer pressure in combatting climate change](https://www.greenbiz.com/blog/2010/01/19/power-peer-pressure-combatting-climate-change)
 - [ ] Policy design for the anthropocene
 - [ ] Basic methods of policy analysis and planning (D.S.Patton, C.V.annd, J.Clark)
 - [ ] [From Satellite Imagery to Disaster Insights](https://aiforsocialgood.github.io/2018/pdfs/track1/23-From_Satellite_Imagery_to_Disaster_Insights.pdf)
