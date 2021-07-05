@@ -7,19 +7,19 @@ Things I am reading
 - [x] [Tackling Climate Change with Machine Learning](https://arxiv.org/pdf/1906.05433.pdf)
 - [x]  [Combining Satellite Imagery and Machine Learning to Predict Poverty](http://science.sciencemag.org/content/353/6301/790.long)
 - [x] [When conflicts get heated, so does the planet: social-climate dynamics under inequality](https://www.biorxiv.org/content/10.1101/2020.09.15.298760v1)
-- [] [Combining MCTS and A3C for Prediction of Spatially Spreading Processes in Forest Wildfire Settings](https://uwaterloo.ca/scholar/sites/ca.scholar/files/mcrowley/files/Canadian_AI_forestfire_2.pdf)
-- [] [AI for the Common Good?! Pitfalls, challenges, and Ethics Pen-Testing](https://arxiv.org/pdf/1810.12847.pdf)
-- [] [The Human Effect Requires Affect: Addressing Social-Psychological Factors of Climate Change with Machine Learning](https://www.climatechange.ai/papers/neurips2020/76)
-- [] Challenges and Prospects for Data-Driven Climate Change Mitigation
-- [] Transport: A roadblock to climate change mitigation?
-- [] Prdictibility in the midst of chaos: a scientific basis for climate forecasting
-- [] Machine Learning for applications for Earth obeservation
-- [] [The power of peer pressure in combatting climate change] (https://www.greenbiz.com/blog/2010/01/19/power-peer-pressure-combatting-climate-change)
-- [] Policy design for the anthropocene
-- [] Basic methods of policy analysis and planning (D.S.Patton, C.V.annd, J.Clark)
-- [] [From Satellite Imagery to Disaster Insights](https://aiforsocialgood.github.io/2018/pdfs/track1/23-From_Satellite_Imagery_to_Disaster_Insights.pdf)
-- [Automated Hate Speech Detection and the Problem of Offensive Language](https://aiforsocialgood.github.io/2018/pdfs/track1/23-From_Satellite_Imagery_to_Disaster_Insights.pdf)
-- [Automatic Differentiation in Machine Learning: A Survey](https://arxiv.org/abs/1502.05767)
+- [ ] [Combining MCTS and A3C for Prediction of Spatially Spreading Processes in Forest Wildfire Settings](https://uwaterloo.ca/scholar/sites/ca.scholar/files/mcrowley/files/Canadian_AI_forestfire_2.pdf)
+- [ ] [AI for the Common Good?! Pitfalls, challenges, and Ethics Pen-Testing](https://arxiv.org/pdf/1810.12847.pdf)
+- [ ] [The Human Effect Requires Affect: Addressing Social-Psychological Factors of Climate Change with Machine Learning](https://www.climatechange.ai/papers/neurips2020/76)
+- [ ] Challenges and Prospects for Data-Driven Climate Change Mitigation
+- [ ] Transport: A roadblock to climate change mitigation?
+- [ ] Prdictibility in the midst of chaos: a scientific basis for climate forecasting
+- [ ] Machine Learning for applications for Earth obeservation
+- [ ] [The power of peer pressure in combatting climate change] (https://www.greenbiz.com/blog/2010/01/19/power-peer-pressure-combatting-climate-change)
+- [ ] Policy design for the anthropocene
+- [ ] Basic methods of policy analysis and planning (D.S.Patton, C.V.annd, J.Clark)
+- [ ] [From Satellite Imagery to Disaster Insights](https://aiforsocialgood.github.io/2018/pdfs/track1/23-From_Satellite_Imagery_to_Disaster_Insights.pdf)
+- [ ] [Automated Hate Speech Detection and the Problem of Offensive Language](https://aiforsocialgood.github.io/2018/pdfs/track1/23-From_Satellite_Imagery_to_Disaster_Insights.pdf)
+- [ ] [Automatic Differentiation in Machine Learning: A Survey](https://arxiv.org/abs/1502.05767)
 
 ## Privacy and Fairness
 
