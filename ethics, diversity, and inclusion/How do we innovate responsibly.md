@@ -21,6 +21,8 @@ Manslaughter vs Murder - machines can’t be put in prison / punished, regardles
 If we’re designing algorithms that are influencing people’s decision making, such as election results and voting behaviour, then who should be held accountable?
 Some people say ‘THE DESIGNERS’. Some designers say I’m just a scientist. I build stuff, I create this information / tools and then there are layers of businesses that take into account policies and how it’s used etc. 
 This Gap in the ecosystem between businesses, leaders, users, designers, is the accountability gap. Who is indeed responsible? Who should take charge and make sure everything works well?
+
+![image](https://user-images.githubusercontent.com/33766912/142478420-e4856fac-2e93-4617-845e-3d7146606438.png)
  
 
 
@@ -62,4 +64,4 @@ Some vocabulary for your own projects:
 | Deterioration of work culture / environment	| Impact on Autonomy and jobs |
 | Environmental issues | |
 | Operational Issues | |
- ![image](https://user-images.githubusercontent.com/33766912/142478420-e4856fac-2e93-4617-845e-3d7146606438.png)
+ 
