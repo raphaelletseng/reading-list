@@ -4,6 +4,12 @@ Things I am reading
 
 ## Reading List 2021
 
+- [ ] [Indigenous Protocol and Artificial Intelligence Position Paper](https://spectrum.library.concordia.ca/id/eprint/986506/)
+- [ ] [The Myth of Complete AI-Fairness](https://arxiv.org/abs/2104.12544)
+- [ ] [Sustainable AI: AI for sustainability and the sustainability of AI](https://link.springer.com/article/10.1007/s43681-021-00043-6)
+- [ ] [Mapping AI in the Global South](https://points.datasociety.net/ai-in-the-global-south-sites-and-vocabularies-e3b67d631508)
+
+
 - [ ] [The Role and Limits of Principles in AI Ethics: Towards a Focus on Tensions](https://dl.acm.org/doi/pdf/10.1145/3306618.3314289)
 - [x] [Tackling Climate Change with Machine Learning](https://arxiv.org/pdf/1906.05433.pdf)
 - [x]  [Combining Satellite Imagery and Machine Learning to Predict Poverty](http://science.sciencemag.org/content/353/6301/790.long)
