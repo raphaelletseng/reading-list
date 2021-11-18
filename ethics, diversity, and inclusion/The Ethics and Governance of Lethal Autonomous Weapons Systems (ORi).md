@@ -1,3 +1,6 @@
+# [The Ethics and Governance of Lethal Autonomous Weapons Systems](http://www.openroboethics.org/wp-content/uploads/2015/11/ORi_LAWS2015.pdf)
+
+
 Lethal Auto weapons systems (LAWS) : weapons systems in which the system makes the decision to use lethal force without requiring human intervention [Doesn’t seem like it’s currently in use, just under development]
 vs.
 Remotely Operated Weapons Systems (ROWS): weaponised system where a person in a remote location makes the decision to use lethal force.
