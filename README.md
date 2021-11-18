@@ -4,6 +4,8 @@ Things I am reading
 
 ## Reading List 2021
 
+- [ ] [The Steep Cost of Capture](https://interactions.acm.org/archive/view/november-december-2021/the-steep-cost-of-capture)
+
 - [ ] [Indigenous Protocol and Artificial Intelligence Position Paper](https://spectrum.library.concordia.ca/id/eprint/986506/)
 - [ ] [The Myth of Complete AI-Fairness](https://arxiv.org/abs/2104.12544)
 - [ ] [Sustainable AI: AI for sustainability and the sustainability of AI](https://link.springer.com/article/10.1007/s43681-021-00043-6)
