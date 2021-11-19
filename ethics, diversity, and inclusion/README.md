@@ -1,3 +1,3 @@
-- [ ] The Ethics and Governance of Lethal Autonomous Weapons Systems - ORi
-- [ ] How do we Innovate Responsibly? AJung Moon
+- [x] The Ethics and Governance of Lethal Autonomous Weapons Systems - ORi
+- [x] How do we Innovate Responsibly? AJung Moon
 - [ ] Race and Gender - Timnit Gebru
